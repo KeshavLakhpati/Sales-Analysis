@@ -13,18 +13,22 @@
 
 ● Introduction:
 	
+
 Motivation: 
+
 As we know data is most important part of any business. With the help of correct data, we can predict the growth of business. Data analysis is the field where we Gather Data, Process Data and share insights with stakeholder to make business decisions.
 
 Problem statement: 
-          1) Find sales with respect to Year, Segment, Market and Region. 
+          
+	  1) Find sales with respect to Year, Segment, Market and Region. 
           2) Find Top 10 customer by every year. 
           3) Profit and loss product by sub-category of product. 
           4) Find sales and profit by Segment and Category of products. 
           5) Find Average Sales.
 
 Objectives and Goals: 
-          1) The purpose of this project is to demonstrate the visualization tool for business analysis and for future business decisions. 
+          
+	  1) The purpose of this project is to demonstrate the visualization tool for business analysis and for future business decisions. 
           2) To analyze sales between year 2018-2021. 
           3) To discover profit and loss of different categories. 
           4) To find solution on given problems. 
