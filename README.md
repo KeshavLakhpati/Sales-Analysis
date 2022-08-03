@@ -1,4 +1,4 @@
-# Sales-Analysis-on-Global-Super-Store
+# Sales Analysis
 
 ● Abstract: 
           Sales Analysis is a Global Super Store PowerBi Dashboard and Python report which helps us to understand the data between year 2018-2021 more effectively with             the help of dashboard and report. we have performed all the necessary steps which are required for data analysis. 
